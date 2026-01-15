@@ -14,6 +14,8 @@
 
 **[🇨🇳 中文文档](README_CN.md)** | **[English README](README.md)**
 
+**加入微信交流群：LangchainChat（备注：AI应用开发学习）**
+
 </div>
 
 ---
